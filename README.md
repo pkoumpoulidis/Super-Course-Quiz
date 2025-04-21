@@ -26,3 +26,9 @@ Unity Version: Unity 6 (6000.0.32f1)
  - Κρυπτογράφηση αρχείου τοπικής αποθήκευσης, ώστε ο παίκτης να μην μπορεί εύκολα να το τροποποιήσει.
  - Sound Effects και dust particles για κάθε χαρακτήρα. Δεν υλοποιήθηκε λόγο του πλήθους των χαρακτήρων.
 
+## Assets που χρησιμοποίησα
+- [User Interface](https://penzilla.itch.io/basic-gui-bundle)
+- [Characters](https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727)
+- [Enviroment](https://k0rveen.itch.io/lowpoly-environment-pack)
+- [Chest](https://assetstore.unity.com/packages/3d/props/low-poly-chest-animated-247127)
+- [Confeti PS](https://assetstore.unity.com/packages/vfx/particles/hyper-casual-fx-200333)
