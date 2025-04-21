@@ -18,7 +18,7 @@ namespace QuizSystem
         public QuizQuestion GetRandomQuestion()
         {
             // Get a question that has not been answered yet.
-            var unansweredQuestion = QuizQuestions.FirstOrDefault(question => question.HasBeenAnswered == false);
+            var unansweredQuestion = QuizQuestions.FirstOrDefault(question => question.HasBeenAnsweredCorrectly == false);
             // If player has answered all questions, return one that he didn't answer correctly.
             if(unansweredQuestion == null)
                 unansweredQuestion = QuizQuestions.FirstOrDefault(question => question.HasBeenAnswered == false);
