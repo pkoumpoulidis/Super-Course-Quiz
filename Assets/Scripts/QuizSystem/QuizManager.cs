@@ -99,7 +99,7 @@ public class QuizManager : MonoBehaviour
         var isAnsweredCorrectly = _currentQuestion.Answer(answer);
         if (isAnsweredCorrectly)
         {
-            SoundManager.Instance.PlaySfx(correctSound, _targetChest.transform, 1f);
+            SoundManager.Instance.PlaySfx(correctSound, _characterController.CharacterBody.transform, 1f);
             _successParticle = Instantiate(successParticlePrefab, _characterController.CharacterBody.transform.position, Quaternion.identity);
             _successParticle.transform.position += Vector3.up * 2f;
             _successParticle.Play();
@@ -108,7 +108,7 @@ public class QuizManager : MonoBehaviour
         }
         else
         {
-            SoundManager.Instance.PlaySfx(incorrectSound, _targetChest.transform, 1f);
+            SoundManager.Instance.PlaySfx(incorrectSound, _characterController.CharacterBody.transform, 1f);
             StartCoroutine(DisplayText("Incorrect!", incorrectTextColor, true));
             _targetChest.InteractWithChest(false);
         }

@@ -19,7 +19,15 @@ namespace PlayerSystems
             if (!_canInteract) return;
             if (!PlayerInputController.Instance.IsInteracting) return;
             PlayerUI.Instance.InteractInfoUI.gameObject.SetActive(false);
-            QuizManager.Instance.BeginDisplayQuestion(_target);
+            if (_target)
+            {
+                _target.gameObject.layer = LayerMask.NameToLayer("Default");
+                _target.transform.parent.gameObject.layer = LayerMask.NameToLayer("Default");
+                foreach(Transform child in _target.transform)
+                    child.gameObject.layer = LayerMask.NameToLayer("Default");
+                QuizManager.Instance.BeginDisplayQuestion(_target);
+                _target = null;
+            }
         }
 
         private void OnTriggerEnter(Collider other)
