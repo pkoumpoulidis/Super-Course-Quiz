@@ -1,10 +1,9 @@
 # Super Course Quiz Demo
 Unity Version: Unity 6 (6000.0.32f1)
+Target Platform: Windows
 ## Σύνδεσμοι
 - [google.drive](https://drive.google.com/file/d/1eLXaT-V3Z1O4Rl06iWZ56iJlLEyEr2EB/view?usp=sharing)
 - [itch.io](https://tandalos.itch.io/super-course-quiz)
-
-Στο itch.io υπάρχει και ένα WebGL build (Δεν υποστηρίζει αποθήκευση της προόδου). Βέβαια το παιχνίδι έχει ως target platform τα Windows.
 
 ## Πληροφορίες για το παιχνίδι
 Ένα παιχνίδι quiz, όπου ο παίκτης μπορεί να επιλέξει ένα, από τα 6 ζώα-χαρακτήρες, και να απαντήσει ερωτήσεις σχετικές με αυτό.
