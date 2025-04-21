@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 94793b12ab3bb1a45bba4e84c123665c, type: 3}
+  m_Name: 4_Horse
+  m_EditorClassIdentifier: 
+  animalId: horse
+  animalName: Horse
+  prefab: {fileID: 504409944136402639, guid: cf2bf0f261d434843b5330cdad6564f9, type: 3}
+  camera: {fileID: 1195002758399937312, guid: 2193b14a0178df5459b8ebc55e425289, type: 3}
+  isLocked: 1

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 94793b12ab3bb1a45bba4e84c123665c, type: 3}
+  m_Name: 3_Dog
+  m_EditorClassIdentifier: 
+  animalId: dog
+  animalName: Dog
+  prefab: {fileID: 7702560406775544518, guid: 37a04469565e0534a8e7478131e26b96, type: 3}
+  camera: {fileID: 1195002758399937312, guid: 180a5764303d6f84799a9c6a686d3666, type: 3}
+  isLocked: 1

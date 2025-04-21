@@ -1,0 +1,334 @@
+{
+  "animalQuiz": [
+    {
+      "animalId": "chicken",
+      "questions": [
+        {
+          "questionId": "q1",
+          "question": "What sound does a chicken make?",
+          "answers": ["Cluck", "Moo", "Woof", "Meow"]
+        },
+        {
+          "questionId": "q2",
+          "question": "What do we call a baby chicken?",
+          "answers": ["Chick", "Puppy", "Calf", "Kitten"]
+        },
+        {
+          "questionId": "q3",
+          "question": "What comes from chickens that we eat?",
+          "answers": ["Eggs", "Milk", "Cheese", "Honey"]
+        },
+        {
+          "questionId": "q4",
+          "question": "What do chickens like to eat?",
+          "answers": ["Seeds", "Fish", "Meat", "Bread"]
+        },
+        {
+          "questionId": "q5",
+          "question": "Where do chickens live?",
+          "answers": ["Coop", "Pond", "Cave", "Tree"]
+        },
+        {
+          "questionId": "q6",
+          "question": "How many legs does a chicken have?",
+          "answers": ["2", "4", "6", "8"]
+        },
+        {
+          "questionId": "q7",
+          "question": "What covers a chicken's body?",
+          "answers": ["Feathers", "Fur", "Scales", "Skin"]
+        },
+        {
+          "questionId": "q8",
+          "question": "What does a chicken use to peck food?",
+          "answers": ["Beak", "Paws", "Teeth", "Tail"]
+        },
+        {
+          "questionId": "q9",
+          "question": "What time of day do chickens wake up?",
+          "answers": ["Morning", "Night", "Afternoon", "Evening"]
+        },
+        {
+          "questionId": "q10",
+          "question": "What do chickens do in the dirt?",
+          "answers": ["Take dust baths", "Build nests", "Hide food", "Sleep"]
+        }
+      ]
+    },
+    {
+      "animalId": "cat",
+      "questions": [
+        {
+          "questionId": "q1",
+          "question": "What sound does a cat make?",
+          "answers": ["Meow", "Bark", "Oink", "Quack"]
+        },
+        {
+          "questionId": "q2",
+          "question": "What do cats like to drink?",
+          "answers": ["Milk", "Juice", "Tea", "Coffee"]
+        },
+        {
+          "questionId": "q3",
+          "question": "What do cats use to clean themselves?",
+          "answers": ["Tongue", "Paws", "Tail", "Teeth"]
+        },
+        {
+          "questionId": "q4",
+          "question": "Where do cats like to sleep?",
+          "answers": ["In boxes", "In water", "In trees", "Underground"]
+        },
+        {
+          "questionId": "q5",
+          "question": "What do cats chase?",
+          "answers": ["Mice", "Cars", "Birds", "Both mice and birds"]
+        },
+        {
+          "questionId": "q6",
+          "question": "What is a baby cat called?",
+          "answers": ["Kitten", "Puppy", "Cub", "Chick"]
+        },
+        {
+          "questionId": "q7",
+          "question": "What do cats use to climb?",
+          "answers": ["Claws", "Wings", "Fins", "Horns"]
+        },
+        {
+          "questionId": "q8",
+          "question": "How do cats show they're happy?",
+          "answers": ["Purring", "Barking", "Roaring", "Hissing"]
+        },
+        {
+          "questionId": "q9",
+          "question": "What do cats use to see in the dark?",
+          "answers": ["Whiskers", "Ears", "Nose", "Paws"]
+        },
+        {
+          "questionId": "q10",
+          "question": "What covers a cat's body?",
+          "answers": ["Fur", "Feathers", "Scales", "Shell"]
+        }
+      ]
+    },
+    {
+      "animalId": "dog",
+      "questions": [
+        {
+          "questionId": "q1",
+          "question": "What sound does a dog make?",
+          "answers": ["Bark", "Meow", "Moo", "Quack"]
+        },
+        {
+          "questionId": "q2",
+          "question": "What is a baby dog called?",
+          "answers": ["Puppy", "Kitten", "Cub", "Chick"]
+        },
+        {
+          "questionId": "q3",
+          "question": "What do dogs like to play with?",
+          "answers": ["Ball", "Book", "Cup", "Shoe"]
+        },
+        {
+          "questionId": "q4",
+          "question": "What do dogs use to smell?",
+          "answers": ["Nose", "Ears", "Tail", "Paws"]
+        },
+        {
+          "questionId": "q5",
+          "question": "Where do pet dogs sleep?",
+          "answers": ["Dog bed", "Tree", "Pond", "Cave"]
+        },
+        {
+          "questionId": "q6",
+          "question": "What do dogs like to eat?",
+          "answers": ["Dog food", "Grass", "Rocks", "Paper"]
+        },
+        {
+          "questionId": "q7",
+          "question": "How do dogs show they're happy?",
+          "answers": ["Wagging tail", "Purring", "Hissing", "Roaring"]
+        },
+        {
+          "questionId": "q8",
+          "question": "What do dogs like to chase?",
+          "answers": ["Cats", "Clouds", "Shadows", "Rainbows"]
+        },
+        {
+          "questionId": "q9",
+          "question": "What do dogs use to run fast?",
+          "answers": ["Legs", "Wings", "Fins", "Arms"]
+        },
+        {
+          "questionId": "q10",
+          "question": "What covers a dog's body?",
+          "answers": ["Fur", "Feathers", "Scales", "Shell"]
+        }
+      ]
+    },
+    {
+      "animalId": "horse",
+      "questions": [
+        {
+          "questionId": "q1",
+          "question": "What sound does a horse make?",
+          "answers": ["Neigh", "Bark", "Meow", "Oink"]
+        },
+        {
+          "questionId": "q2",
+          "question": "What do we call a baby horse?",
+          "answers": ["Foal", "Puppy", "Kitten", "Cub"]
+        },
+        {
+          "questionId": "q3",
+          "question": "What do horses eat?",
+          "answers": ["Hay", "Meat", "Fish", "Bread"]
+        },
+        {
+          "questionId": "q4",
+          "question": "Where do horses live?",
+          "answers": ["Stable", "Pond", "Tree", "Cave"]
+        },
+        {
+          "questionId": "q5",
+          "question": "What do people ride on horses?",
+          "answers": ["Saddle", "Chair", "Bed", "Table"]
+        },
+        {
+          "questionId": "q6",
+          "question": "How do horses run?",
+          "answers": ["Gallop", "Fly", "Swim", "Crawl"]
+        },
+        {
+          "questionId": "q7",
+          "question": "What covers a horse's body?",
+          "answers": ["Hair", "Feathers", "Scales", "Shell"]
+        },
+        {
+          "questionId": "q8",
+          "question": "What do horses wear on their feet?",
+          "answers": ["Horseshoes", "Socks", "Shoes", "Boots"]
+        },
+        {
+          "questionId": "q9",
+          "question": "What do horses pull?",
+          "answers": ["Carriages", "Airplanes", "Boats", "Bicycles"]
+        },
+        {
+          "questionId": "q10",
+          "question": "What color can horses be?",
+          "answers": ["Many colors", "Only black", "Only white", "Only brown"]
+        }
+      ]
+    },
+    {
+      "animalId": "deer",
+      "questions": [
+        {
+          "questionId": "q1",
+          "question": "What do male deer have on their heads?",
+          "answers": ["Antlers", "Horns", "Crowns", "Hats"]
+        },
+        {
+          "questionId": "q2",
+          "question": "Where do deer live?",
+          "answers": ["Forest", "Desert", "Ocean", "City"]
+        },
+        {
+          "questionId": "q3",
+          "question": "What do deer eat?",
+          "answers": ["Plants", "Meat", "Fish", "Bread"]
+        },
+        {
+          "questionId": "q4",
+          "question": "How do deer move?",
+          "answers": ["Run and jump", "Fly", "Swim", "Crawl"]
+        },
+        {
+          "questionId": "q5",
+          "question": "What is a baby deer called?",
+          "answers": ["Fawn", "Puppy", "Kitten", "Cub"]
+        },
+        {
+          "questionId": "q6",
+          "question": "What covers a deer's body?",
+          "answers": ["Fur", "Feathers", "Scales", "Shell"]
+        },
+        {
+          "questionId": "q7",
+          "question": "When are deer most active?",
+          "answers": ["Dawn and dusk", "Midnight", "Noon", "Afternoon"]
+        },
+        {
+          "questionId": "q8",
+          "question": "What helps deer hear well?",
+          "answers": ["Big ears", "Long tail", "Sharp eyes", "Strong legs"]
+        },
+        {
+          "questionId": "q9",
+          "question": "What color are deer?",
+          "answers": ["Brown", "Green", "Blue", "Pink"]
+        },
+        {
+          "questionId": "q10",
+          "question": "What do deer do when scared?",
+          "answers": ["Run away", "Fight", "Hide", "Sleep"]
+        }
+      ]
+    },
+    {
+      "animalId": "tiger",
+      "questions": [
+        {
+          "questionId": "q1",
+          "question": "What color are tigers?",
+          "answers": ["Orange with black stripes", "Blue with white stripes", "Green with yellow spots", "Black with red dots"]
+        },
+        {
+          "questionId": "q2",
+          "question": "Where do tigers live?",
+          "answers": ["Jungle", "Desert", "Ocean", "City"]
+        },
+        {
+          "questionId": "q3",
+          "question": "What do tigers eat?",
+          "answers": ["Meat", "Grass", "Fruits", "Bread"]
+        },
+        {
+          "questionId": "q4",
+          "question": "What is a baby tiger called?",
+          "answers": ["Cub", "Puppy", "Kitten", "Chick"]
+        },
+        {
+          "questionId": "q5",
+          "question": "What sound does a tiger make?",
+          "answers": ["Roar", "Bark", "Meow", "Oink"]
+        },
+        {
+          "questionId": "q6",
+          "question": "How do tigers hunt?",
+          "answers": ["Sneak and pounce", "Run fast", "Fly", "Dig"]
+        },
+        {
+          "questionId": "q7",
+          "question": "What covers a tiger's body?",
+          "answers": ["Fur", "Feathers", "Scales", "Shell"]
+        },
+        {
+          "questionId": "q8",
+          "question": "When do tigers hunt?",
+          "answers": ["Night", "Morning", "Afternoon", "Evening"]
+        },
+        {
+          "questionId": "q9",
+          "question": "What helps tigers hide?",
+          "answers": ["Stripes", "Horns", "Wings", "Fins"]
+        },
+        {
+          "questionId": "q10",
+          "question": "How do tigers swim?",
+          "answers": ["With their legs", "With wings", "With fins", "They can't swim"]
+        }
+      ]
+    }
+  ]
+}
